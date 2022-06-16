@@ -1,4 +1,3 @@
 # devops
 mydevops repo
-test  
-test
+test  jenkins test
